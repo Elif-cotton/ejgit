@@ -1,0 +1,27 @@
+Git:
+
+Git es un sistema de control de versiones distribuido que se utiliza para el seguimiento de cambios en el código fuente de un proyecto. Fue creado por Linus Torvalds en 2005 y se ha convertido en una herramienta esencial para el desarrollo de software. Algunos conceptos clave de Git incluyen:
+
+Repositorio Git: Un repositorio Git es un lugar donde se almacenan todos los archivos y la historia de cambios de un proyecto.
+
+Commit: Un commit en Git es una instantánea de los cambios realizados en los archivos del proyecto en un momento dado. Cada commit tiene un mensaje que describe el propósito de los cambios.
+
+Rama: Una rama es una línea de desarrollo independiente en un repositorio Git. Las ramas permiten trabajar en nuevas características o correcciones de errores sin afectar la rama principal.
+
+Fusionar (merge): La fusión es el proceso de combinar cambios de una rama en otra. Se utiliza para incorporar nuevas características o correcciones de errores en la rama principal.
+
+Clonar, tirar (pull), y empujar (push): Estos son comandos utilizados para copiar, actualizar y enviar cambios entre repositorios locales y remotos.
+
+GitHub:
+
+GitHub es una plataforma basada en la web que se utiliza para alojar repositorios Git y para facilitar la colaboración en proyectos de desarrollo de software. Algunas de las características clave de GitHub incluyen:
+
+Hospedaje de repositorios: GitHub permite a los desarrolladores almacenar repositorios Git en la nube, lo que facilita el acceso y la colaboración desde cualquier lugar.
+
+Colaboración: GitHub ofrece herramientas para colaborar en proyectos, como la gestión de problemas (issues) y solicitudes de extracción (pull requests), que permiten a los desarrolladores discutir cambios y colaborar en el código.
+
+Control de acceso: GitHub permite a los propietarios de repositorios controlar quién puede ver y contribuir al proyecto. Se pueden establecer permisos para colaboradores y equipos.
+
+Integración continua (CI) y entrega continua (CD): GitHub admite la integración con herramientas de CI/CD, lo que facilita la automatización de pruebas y la implementación de código.
+
+En resumen, Git es el sistema de control de versiones que permite rastrear y gestionar cambios en el código, mientras que GitHub es una plataforma que se utiliza para alojar, colaborar y gestionar proyectos que utilizan Git como su sistema de control de versiones. Juntos, Git y GitHub son ampliamente utilizados en el desarrollo de software para simplificar la colaboración y el control de versiones en proyectos.
